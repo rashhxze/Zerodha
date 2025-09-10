@@ -18,6 +18,10 @@ body {
 #option {
     padding: 20px;
 }
+#option:hover {
+    color: #387ed1;
+    cursor: pointer;
+}
 #margin {
     margin-bottom: 60px;
 }
